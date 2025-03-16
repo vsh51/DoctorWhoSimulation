@@ -110,3 +110,8 @@
 - **Тардіс** - жовтий
 
 (в прикладі демонстрації на github не зображено можливостей логування, потрібно запустити код для перевірки)
+
+---
+
+![alt diagram](https://github.com/vsh51/DoctorWhoSimulation/blob/master/who.png?raw=true)
+
